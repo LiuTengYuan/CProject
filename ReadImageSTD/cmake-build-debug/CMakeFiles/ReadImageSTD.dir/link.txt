@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ReadImageSTD.dir/main.c.o CMakeFiles/ReadImageSTD.dir/gfx.c.o  -o ReadImageSTD -lm -lX11 
